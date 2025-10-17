@@ -1,0 +1,18 @@
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   26G  4.7G   22G  18% /
+devtmpfs             1.8G     0  1.8G   0% /dev
+tmpfs                1.8G     0  1.8G   0% /dev/shm
+tmpfs                731M   11M  721M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  354M  607M  37% /boot
+tmpfs                366M   72K  366M   1% /run/user/42
+tmpfs                366M   56K  366M   1% /run/user/1000
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   26G  4.7G   22G  18% /
+devtmpfs             1.8G     0  1.8G   0% /dev
+tmpfs                1.8G     0  1.8G   0% /dev/shm
+tmpfs                731M   11M  721M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  354M  607M  37% /boot
+tmpfs                366M   72K  366M   1% /run/user/42
+tmpfs                366M   56K  366M   1% /run/user/1000
